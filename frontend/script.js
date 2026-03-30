@@ -1,4 +1,4 @@
-const apiUrl = "http://127.0.0.1:8001";
+const apiUrl = "https://your-expense-tracker-backend.onrender.com";
 
 const titleInput = document.getElementById("title");
 const amountInput = document.getElementById("amount");

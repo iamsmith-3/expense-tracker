@@ -1,4 +1,4 @@
-const apiUrl = "https://your-expense-tracker-backend.onrender.com";
+const apiUrl = "https://expense-tracker-ucbe.onrender.com";
 
 const titleInput = document.getElementById("title");
 const amountInput = document.getElementById("amount");
